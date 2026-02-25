@@ -4,7 +4,7 @@ from matplotlib.path import Path
 import matplotlib.patches as patches
 import matplotlib as mpl
 
-# Настройка стиля
+# hi there
 # plt.style.use('seaborn')
 
 # Создаем фигуру
